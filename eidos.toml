@@ -1,0 +1,7 @@
+name = "config-policy"
+version = "0.1.0"
+description = "Config-as-policy"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
